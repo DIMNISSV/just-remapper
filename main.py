@@ -102,7 +102,7 @@ def main_window():
                     tracks = v
         elif event == 'create_track':
             data = [values[k] for k in HEADINGS.keys()]
-            if '' in data[:-1]:
+            if '' in data[1:-2]:
                 error_window('Все поля обязательны к заполнению!')
                 continue
             tracks.append(data)
