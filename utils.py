@@ -17,7 +17,7 @@ def set_ffmpeg_params(values):
 
 
 def q(s):
-    return f'"{s}"' if ' ' in str(s) else s
+    return f'"{s}"' if ' ' in str(s) else str(s)
 
 
 def get_paths(path, pattern=None):
