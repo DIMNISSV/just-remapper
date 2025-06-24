@@ -1,4 +1,4 @@
-# JustConverter
+# JustRemapper
 
 Converter with comfortable stream map view
 
