@@ -6,11 +6,11 @@ Converter with comfortable stream map view
 
 ### Download
 
-Just download latest portable or installer exe file from [releases](https://github.com/DIMNISSV/JustConverter/releases/latest)
+Just download latest portable or installer exe file from [releases](https://github.com/DIMNISSV/just-remapper/releases/latest)
 
 #### git clone
 
-> git clone https://github.com/DIMNISSV/JustConverter
+> git clone https://github.com/DIMNISSV/just-remapper
 
 > cd JustConverter
  
@@ -18,11 +18,11 @@ Just download latest portable or installer exe file from [releases](https://gith
 
 Start cmd with administrator.
 
-Download source code from [releases](https://github.com/DIMNISSV/JustConverter/releases).
+Download source code from [releases](https://github.com/DIMNISSV/just-remapper/releases).
 
-Instead of `JustConverter.VERSION` write downloaded file name.
+Instead of `just-remapper.VERSION` write downloaded file name.
 
-> tar -xf JustConverter.VERSION.zip -C "%ProgramFiles%" -p
+> tar -xf just-remapper.VERSION.zip -C "%ProgramFiles%" -p
 
 > cd "%ProgramFiles%\JustConverter.VERSION"
 
